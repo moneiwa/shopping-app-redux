@@ -1,0 +1,69 @@
+{
+  "todos": [
+    {
+      "id": "1725217380735",
+      "shoppingItem": "Nike Men's Dunk High Black/White Sneaker Nike",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9bMtCgLwpu1azcF0qvH9HdNCnnLKmjMCTqDkPtNzCu8CJrAFfCvjiu4AUY3Sk5lqdxy-KcxnngEOQvmYvfjLR3MuuGX3jkUds48a1ajwCNo0SdXzJBkqRS6Rjq8KwhDqzhCCwY74&usqp=CAc",
+      "price": "R 2,599.95"
+    },
+    {
+      "id": "1725217389436",
+      "shoppingItem": "women mom jean",
+      "image": "https://img.kwcdn.com/garner-api/transfer/2023-9-17/b6514748a0d0408f5929d87e6f425075.jpg?imageView2/2/w/800/q/70/format/webp",
+      "price": "R 1,199.00"
+    },
+    {
+      "id": "1725217402763",
+      "shoppingItem": "Solid Colored Pleated Off Shoulder Blouse",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQyTZ3-JQ3nUWgbzUPVw1Zm_-qa0v2l-ZNqa2Ghj95xvdhWzdNyeQKN2kNYJxOKzoGOyUPc-VssJqK-MeNlYgE8S61WG2xXWGZft4P7nkoPO3h4wb-oDOatwofZHqmXRTeg_D8tYA&usqp=CAc",
+      "price": "R 499.00"
+    },
+    {
+      "id": "1725218719378",
+      "shoppingItem": "Spring And Autumn Loose And Casual Brown Plaid Print Button Front Long Sleeves Crop Shirt",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSFGY9QGry6zX_ku_-dmcXEjS2fTAs3FqGnQVDhvc1XuDN0F-kj8lJdKyR4WUCcPszHW53JbyMqtdZdplsvUlG1KU0bmdNT7w9VupgOlInIvMySgCVhf-B0Hg&usqp=CAc",
+      "price": "R 899.00"
+    },
+    {
+      "id": "1725218721347",
+      "shoppingItem": "Cargo Pants",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQMEy1q2bDw9WLabnge1J4QYNZDBJOpEyPUrEDG0KQczugHDRo5cBYVefExOHPDln5iiXUkNx8uXUfi20v1z9mqGnyymN0NDS_PYKTwaicQx0LSSdFCtnN5YA&usqp=CAc",
+      "price": "R 1,299.00"
+    },
+    {
+      "id": "1725218734511",
+      "shoppingItem": "Bust Dress",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_vXQ2uHpieyuazgV8hbSkaJvgS2CPjIFEOFsnop5FMKQu_f046vwA8QLsN9WjALZJxjprjvlcSZGFrZaV0AZqxOu2vXwXCqakU3xxTRbo0vWu4jNIRNQUAA&usqp=CAc",
+      "price": "R 2,099.95"
+    },
+    {
+      "id": "1725218735512",
+      "shoppingItem": "zip up vest",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQRaC8rkumVJwk0bJT4hEDTikJNmbAWa6xAz1HWXu3vXtcgoGCg6o0L7gED9laapBTeU3qlMtQXKY9Xs-TabQHLFS_3OtS5SCgpBNb0K4k&usqp=CAE",
+      "price": "R 699.95"
+    },
+    {
+      "id": "1725218736513",
+      "shoppingItem": "solid winter cardigan",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR6UjAHOSIX9KhPEqxWKMzk8V9kyEORCJagfOhsYxIh48hfYNZqgHXNaPgjmgXnmqBKUTSAu_N2apnx5POIcA7ZkIrD89QlQc9SrMd7TSL_&usqp=CAE",
+      "price": "R 1,499.00"
+    }
+  ],
+  "user": [
+    {
+      "id": "58a1",
+      "name": "ney",
+      "password": "123"
+    },
+    {
+      "id": "e1fe",
+      "name": "newa",
+      "password": "12"
+    },
+    {
+      "id": "589b",
+      "name": "me",
+      "password": "12345"
+    }
+  ]
+}
